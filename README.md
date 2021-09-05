@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @udoybor
+- 👋 Hi, I’m @udoyBormon
 - 👀 I’m interested in coding,gaming and discord bot
 - 🌱 I’m currently learning python 
 
